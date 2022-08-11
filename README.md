@@ -1,16 +1,20 @@
-### Hi there 👋
+## Moro 👋
 
-<!--
-**TMKCodes/TMKCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![TMKCodes GitHub stats](https://github-readme-stats.vercel.app/api?username=tmkcodes&theme=dark&show_icons=true)
 
-Here are some ideas to get you started:
+### I'm currently looking for:
+ * Web application development work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently working on: 
+ * Brewsmashing.com
+
+### I'm currently learning:
+ * Vulkan 3D programming
+
+### How to reach me:
+ * toni.lukkaroinen@gmail.com
+ * +358 44 937 5656
+ * Tonto#2321 discord
+
+### Fun Fact:
+ * Coding Bugs were NOT named after an actual bug.
