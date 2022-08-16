@@ -10,6 +10,7 @@
 
 ### I'm currently learning:
  * Vulkan 3D programming
+ * React development
 
 ### How to reach me:
  * toni.lukkaroinen@gmail.com
