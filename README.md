@@ -14,7 +14,6 @@
 
 ### How to reach me:
  * toni.lukkaroinen@gmail.com
- * +358 44 937 5656
  * Tonto#2321 discord
 
 ### Fun Fact:
