@@ -6,11 +6,14 @@
  * Web application development work
 
 ### I'm currently working on: 
- * Brewsmashing.com
+ * https://vuokrapaja.fi
+ * https://rewsmashing.com
 
 ### I'm currently learning:
+ * Remix, Tailwind
+ * React, Redux, Material UI
+ * Unreal Enigne 5
  * Vulkan 3D programming
- * React development
 
 ### How to reach me:
  * toni.lukkaroinen@gmail.com
