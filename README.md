@@ -3,11 +3,10 @@
 ![TMKCodes GitHub stats](https://github-readme-stats.vercel.app/api?username=tmkcodes&theme=dark&show_icons=true)
 
 ### I'm currently looking for:
- * Web application development work
+ * Full-Stack development clients
 
 ### I'm currently working on: 
  * https://vuokrapaja.fi
- * https://brewsmashing.com
 
 ### I'm currently trying:
  * Remix, Tailwind
