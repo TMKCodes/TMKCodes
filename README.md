@@ -12,9 +12,8 @@
 ### I'm currently working on: 
  * https://vuokrapaja.fi
 
-### I'm currently trying:
- * Remix, Tailwind
- * React, Redux, Material UI
+### I'm currently learning:
+ * Remix
  * Unreal Enigne 5
  * Vulkan
 
